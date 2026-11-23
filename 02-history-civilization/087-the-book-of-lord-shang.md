@@ -9,6 +9,9 @@
 
 《商君书》是一部与战国时期法家政治思想相关的文献，传统上联系商鞅及其政治改革。作品讨论国家权力、法律、农业、军功、人口管理和社会动员，强调通过明确法令、奖惩制度和行政控制增强国家能力。其思想反映战国时代诸侯国在战争竞争中追求富国强兵的现实，也体现对贵族特权、私人关系和地方自治的警惕。文本主张以制度和激励改变社会行为，认为国家应把资源集中于农业生产和军事服务。它对秦国制度改革和后世法家思想研究具有重要意义，但现存《商君书》并非可以简单视为商鞅亲笔完成的单一著作，而是由不同篇章和后续传承构成的复合文本。阅读时应结合战国政治环境，区分思想史分析与对其威权治理主张的道德评价。
 
+
+ 这类国家治理思想的历史影响既包括行政能力提升，也包括权力集中和社会控制的加强。理解它们时，应同时考察制度效果和被治理者承受的代价。
+
 ## English Summary (approximately 300 words)
 
 *The Book of Lord Shang* is a collection of political writings associated with the Legalist tradition of the Warring States period in ancient China. It is traditionally linked to Shang Yang, the reformer whose policies helped strengthen the state of Qin, but the received text is composite and should not be treated as a single book written entirely by one historical author. Its chapters discuss law, state power, agriculture, military service, population management, rewards, punishments, and the organization of society.
@@ -18,6 +21,9 @@ The text reflects the intense competition among states during the Warring States
 These ideas are important for understanding the development of early Chinese statecraft and the institutional changes associated with Qin. They also raise serious questions about the relationship between administrative efficiency and individual freedom. A system that concentrates power and treats people primarily as resources may increase state capacity while creating coercion and limiting independent social life.
 
 Readers should place the text in its historical setting and distinguish its descriptive value from endorsement of its political program. The *Book of Lord Shang* is valuable for studying Legalist thought, bureaucratic state formation, law, incentives, agriculture, and military mobilization. Its composite authorship and textual history also make it useful for understanding how political ideas were transmitted and revised over time.
+
+
+ The historical consequences of these ideas include both stronger administrative capacity and greater concentration of coercive power. A balanced reading considers institutional effectiveness alongside the costs imposed on the people governed.
 
 ## 核心学习价值
 
