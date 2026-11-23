@@ -19,6 +19,9 @@ However, the memoir is not a neutral, all-encompassing history. Churchill was de
 
 Readers should use Churchill’s work as an important primary perspective and compare it with German, Soviet, American, and other national archives, modern military histories, and testimony from people affected by the war. The series is valuable for studying leadership, diplomacy, strategy, wartime decision-making, and the politics of historical memory. It also demonstrates why memoirs must be read critically: proximity to events provides access to information, but it does not guarantee impartiality.
 
+
+ The memoir is particularly useful when read against documents written by other participants. Differences between Churchill’s account and later evidence can reveal how wartime leaders understood uncertainty, how they defended difficult choices, and how public memory is shaped after victory. Its value lies partly in showing the perspective of power, which must be balanced with voices from below.
+
 ## 核心学习价值
 
 - 了解英国战时内阁和盟军高层的决策过程。
