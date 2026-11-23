@@ -8,11 +8,11 @@
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
-| 001 | Middlemarch | George Eliot | 1871–1872 | 已完成 |
-| 002 | Beloved | Toni Morrison | 1987 | 已完成 |
-| 003 | Ulysses | James Joyce | 1922 | 已完成 |
-| 004 | To the Lighthouse | Virginia Woolf | 1927 | 已完成 |
-| 005 | In Search of Lost Time | Marcel Proust | 1913–1927 | 已完成 |
+| 001 | [Middlemarch](001-middlemarch.md) | George Eliot | 1871–1872 | 已完成 |
+| 002 | [Beloved](002-beloved.md) | Toni Morrison | 1987 | 已完成 |
+| 003 | [Ulysses](003-ulysses.md) | James Joyce | 1922 | 已完成 |
+| 004 | [To the Lighthouse](004-to-the-lighthouse.md) | Virginia Woolf | 1927 | 已完成 |
+| 005 | [In Search of Lost Time](005-in-search-of-lost-time.md) | Marcel Proust | 1913–1927 | 已完成 |
 | 006 | Anna Karenina | Leo Tolstoy | 1875–1877 | 待撰写 |
 | 007 | War and Peace | Leo Tolstoy | 1865–1869 | 待撰写 |
 | 008 | Jane Eyre | Charlotte Brontë | 1847 | 待撰写 |
