@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：30 / 60 本。
+已完成详细双语摘要：40 / 60 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@
 | 028 | [The Grapes of Wrath](028-the-grapes-of-wrath.md) | John Steinbeck | 1939 | 已完成 |
 | 029 | [Invisible Man](029-invisible-man.md) | Ralph Ellison | 1952 | 已完成 |
 | 030 | [The Color Purple](030-the-color-purple.md) | Alice Walker | 1982 | 已完成 |
-| 031 | The Handmaid's Tale | Margaret Atwood | 1985 | 待撰写 |
-| 032 | Frankenstein | Mary Shelley | 1818 | 待撰写 |
-| 033 | Dracula | Bram Stoker | 1897 | 待撰写 |
-| 034 | Wuthering Heights | Emily Brontë | 1847 | 待撰写 |
-| 035 | Great Expectations | Charles Dickens | 1860–1861 | 待撰写 |
-| 036 | David Copperfield | Charles Dickens | 1849–1850 | 待撰写 |
-| 037 | Les Misérables | Victor Hugo | 1862 | 待撰写 |
-| 038 | The Count of Monte Cristo | Alexandre Dumas | 1844–1846 | 待撰写 |
-| 039 | The Magic Mountain | Thomas Mann | 1924 | 待撰写 |
-| 040 | The Master and Margarita | Mikhail Bulgakov | 1966–1967 | 待撰写 |
+| 031 | [The Handmaid's Tale](031-the-handmaids-tale.md) | Margaret Atwood | 1985 | 已完成 |
+| 032 | [Frankenstein](032-frankenstein.md) | Mary Shelley | 1818 | 已完成 |
+| 033 | [Dracula](033-dracula.md) | Bram Stoker | 1897 | 已完成 |
+| 034 | [Wuthering Heights](034-wuthering-heights.md) | Emily Brontë | 1847 | 已完成 |
+| 035 | [Great Expectations](035-great-expectations.md) | Charles Dickens | 1860–1861 | 已完成 |
+| 036 | [David Copperfield](036-david-copperfield.md) | Charles Dickens | 1849–1850 | 已完成 |
+| 037 | [Les Misérables](037-les-miserables.md) | Victor Hugo | 1862 | 已完成 |
+| 038 | [The Count of Monte Cristo](038-the-count-of-monte-cristo.md) | Alexandre Dumas | 1844–1846 | 已完成 |
+| 039 | [The Magic Mountain](039-the-magic-mountain.md) | Thomas Mann | 1924 | 已完成 |
+| 040 | [The Master and Margarita](040-the-master-and-margarita.md) | Mikhail Bulgakov | 1966–1967 | 已完成 |
 | 041 | The Name of the Rose | Umberto Eco | 1980 | 待撰写 |
 | 042 | The God of Small Things | Arundhati Roy | 1997 | 待撰写 |
 | 043 | Midnight's Children | Salman Rushdie | 1981 | 待撰写 |
