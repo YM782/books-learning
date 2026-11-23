@@ -19,6 +19,9 @@ The author writes from a Marxist historical perspective, emphasizing class relat
 
 *The Age of Revolution* is valuable for understanding the origins of modern political ideologies, industrial society, nationalism, and class politics. It helps readers connect the events of 1789 and 1848 with the institutions and social conflicts that shaped later modern history.
 
+
+ A further strength of the book is its attention to the way political language travels. Ideas such as citizenship, rights, nationhood, and popular sovereignty acquire different meanings when they are used by social groups with unequal access to power. This makes the period important not only as a sequence of revolutions, but also as a transformation in the vocabulary through which people argued about legitimate government.
+
 ## 核心学习价值
 
 - 理解法国大革命与英国工业革命的相互影响。
