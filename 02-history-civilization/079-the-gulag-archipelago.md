@@ -19,6 +19,9 @@ When the work was published abroad in the 1970s, Soviet archives were not fully 
 
 *The Gulag Archipelago* is valuable for studying totalitarian institutions, political repression, forced labor, testimony, and moral choices under coercion. It should be read alongside archival scholarship and other survivor accounts to understand both the human experience and the historical structure of the system.
 
+
+ The diary’s literary qualities should not obscure the conditions under which it was written. Anne was writing while hiding, with limited privacy and constant uncertainty, and she revised some entries after learning that wartime diaries might later be published. This makes the manuscript both an immediate record of experience and a developing piece of writing shaped by an emerging sense of audience.
+
 ## 核心学习价值
 
 - 理解苏联古拉格体系的制度结构与运作过程。
