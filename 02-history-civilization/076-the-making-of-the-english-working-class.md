@@ -19,6 +19,9 @@ The word “making” in the title is central. The working class was not created
 
 *The Making of the English Working Class* is valuable for studying industrialization, labor history, class consciousness, popular politics, and social movements. It encourages readers to examine how groups form identities and institutions through common experience rather than treating social categories as timeless or inevitable.
 
+
+ Thompson’s approach also changed the questions historians ask. Instead of treating popular protest as irrational disturbance, he investigates the language, customs, and political traditions through which people understood their own interests. This makes the book relevant not only to labor history but also to the broader study of how collective identities are created.
+
 ## 核心学习价值
 
 - 理解英国工业化早期的劳动与政治变化。
