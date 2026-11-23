@@ -9,6 +9,9 @@
 
 《极端的年代》把1914年至1991年定义为“短二十世纪”，从第一次世界大战、俄国革命和帝国崩溃写起，追踪法西斯主义、第二次世界大战、冷战、去殖民化、福利国家、经济增长和苏联解体。霍布斯鲍姆把这一时期分为灾难时代、黄金时代和危机时代，强调政治革命、资本主义变化、科技发展和全球力量重组彼此交织。作者既分析欧洲，也讨论亚洲、非洲和拉丁美洲的革命、民族独立和经济变化。作品的优势是提供清晰的宏观结构，帮助读者把分散事件放进同一历史框架；其马克思主义视角和欧洲中心倾向也受到学界讨论，部分地区和群体的经验需要其他研究补充。阅读时应注意作者如何划分时代、选择转折点和解释苏联解体，避免把一种有影响力的历史叙事当作唯一答案。
 
+
+ 将这一时期与亚洲、非洲和拉丁美洲的历史并读，可以进一步检验全球变化是否遵循同一节奏，也能看见欧洲内部叙事难以充分呈现的地区经验。
+
 ## English Summary (approximately 300 words)
 
 Eric Hobsbawm’s *Age of Extremes: The Short Twentieth Century, 1914–1991* offers a broad interpretation of the twentieth century, beginning with the First World War and ending with the collapse of the Soviet Union. Hobsbawm describes this period as a “short” century because its defining political and economic structures were shaped by the world wars, the Russian Revolution, the Cold War, and the end of the Soviet system. He divides the period into an age of catastrophe, a golden age of economic growth, and an era of crisis and transformation.
@@ -18,6 +21,9 @@ The book examines fascism, the Second World War, communism, capitalism, decoloni
 The work’s strength is its large-scale synthesis. It gives readers a framework for understanding how the twentieth century’s major transformations fit together. At the same time, Hobsbawm writes from a Marxist perspective, and scholars have debated the emphasis he places on class, capitalism, and the European experience. Some regional histories and social groups require additional study beyond the book’s broad narrative. Readers should also examine how the author chooses turning points and interprets the end of the Cold War.
 
 *Age of Extremes* is valuable for studying the world wars, ideological conflict, decolonization, economic growth, globalization, and the collapse of communist regimes in Europe. It encourages readers to connect political events with structural changes and to compare competing explanations of the modern world.
+
+
+ Comparing this period with histories of Asia, Africa, and Latin America can test whether global change followed a single rhythm and reveal regional experiences that a Europe-centered account may not fully capture.
 
 ## 核心学习价值
 
