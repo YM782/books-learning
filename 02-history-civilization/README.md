@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：10 / 35 本。
+已完成详细双语摘要：20 / 35 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@
 | 068 | [Guns, Germs, and Steel](068-guns-germs-and-steel.md) | Jared Diamond | 1997 | 已完成 |
 | 069 | [Sapiens](069-sapiens.md) | Yuval Noah Harari | 2011 | 已完成 |
 | 070 | [The Dawn of Everything](070-the-dawn-of-everything.md) | David Graeber and David Wengrow | 2021 | 已完成 |
-| 071 | The Age of Revolution | Eric Hobsbawm | 1962 | 待撰写 |
-| 072 | The Age of Capital | Eric Hobsbawm | 1975 | 待撰写 |
-| 073 | The Age of Empire | Eric Hobsbawm | 1987 | 待撰写 |
-| 074 | The Black Jacobins | C. L. R. James | 1938 | 待撰写 |
-| 075 | The Second World War | Winston S. Churchill | 1948–1953 | 待撰写 |
-| 076 | The Making of the English Working Class | E. P. Thompson | 1963 | 待撰写 |
-| 077 | The Warmth of Other Suns | Isabel Wilkerson | 2010 | 待撰写 |
-| 078 | The Diary of a Young Girl | Anne Frank | 1947 | 待撰写 |
-| 079 | The Gulag Archipelago | Aleksandr Solzhenitsyn | 1973–1975 | 待撰写 |
-| 080 | A People's History of the United States | Howard Zinn | 1980 | 待撰写 |
+| 071 | [The Age of Revolution](071-the-age-of-revolution.md) | Eric Hobsbawm | 1962 | 已完成 |
+| 072 | [The Age of Capital](072-the-age-of-capital.md) | Eric Hobsbawm | 1975 | 已完成 |
+| 073 | [The Age of Empire](073-the-age-of-empire.md) | Eric Hobsbawm | 1987 | 已完成 |
+| 074 | [The Black Jacobins](074-the-black-jacobins.md) | C. L. R. James | 1938 | 已完成 |
+| 075 | [The Second World War](075-the-second-world-war-churchill.md) | Winston S. Churchill | 1948–1953 | 已完成 |
+| 076 | [The Making of the English Working Class](076-the-making-of-the-english-working-class.md) | E. P. Thompson | 1963 | 已完成 |
+| 077 | [The Warmth of Other Suns](077-the-warmth-of-other-suns.md) | Isabel Wilkerson | 2010 | 已完成 |
+| 078 | [The Diary of a Young Girl](078-the-diary-of-a-young-girl.md) | Anne Frank | 1947 | 已完成 |
+| 079 | [The Gulag Archipelago](079-the-gulag-archipelago.md) | Aleksandr Solzhenitsyn | 1973–1975 | 已完成 |
+| 080 | [A People's History of the United States](080-a-peoples-history-of-the-united-states.md) | Howard Zinn | 1980 | 已完成 |
 | 081 | The World Until Yesterday | Jared Diamond | 2012 | 待撰写 |
 | 082 | The Lessons of History | Will and Ariel Durant | 1968 | 待撰写 |
 | 083 | The Mediterranean and the Mediterranean World in the Age of Philip II | Fernand Braudel | 1949 | 待撰写 |
