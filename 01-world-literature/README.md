@@ -17,7 +17,7 @@
 | 007 | [War and Peace](007-war-and-peace.md) | Leo Tolstoy | 1865–1869 | 已完成 |
 | 008 | [Jane Eyre](008-jane-eyre.md) | Charlotte Brontë | 1847 | 已完成 |
 | 009 | [Pride and Prejudice](009-pride-and-prejudice.md) | Jane Austen | 1813 | 已完成 |
-| 010 | [Madame Bovary](010-madame-bovary.md) | Gustave Flaubert | 1856–1857 | 待撰写 |
+| 010 | [Madame Bovary](010-madame-bovary.md) | Gustave Flaubert | 1856–1857 | 已完成 |
 | 011 | The Great Gatsby | F. Scott Fitzgerald | 1925 | 待撰写 |
 | 012 | Nineteen Eighty-Four | George Orwell | 1949 | 待撰写 |
 | 013 | One Hundred Years of Solitude | Gabriel García Márquez | 1967 | 待撰写 |
