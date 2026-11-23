@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：20 / 35 本。
+已完成详细双语摘要：30 / 35 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@
 | 078 | [The Diary of a Young Girl](078-the-diary-of-a-young-girl.md) | Anne Frank | 1947 | 已完成 |
 | 079 | [The Gulag Archipelago](079-the-gulag-archipelago.md) | Aleksandr Solzhenitsyn | 1973–1975 | 已完成 |
 | 080 | [A People's History of the United States](080-a-peoples-history-of-the-united-states.md) | Howard Zinn | 1980 | 已完成 |
-| 081 | The World Until Yesterday | Jared Diamond | 2012 | 待撰写 |
-| 082 | The Lessons of History | Will and Ariel Durant | 1968 | 待撰写 |
-| 083 | The Mediterranean and the Mediterranean World in the Age of Philip II | Fernand Braudel | 1949 | 待撰写 |
-| 084 | The Muqaddimah | Ibn Khaldun | 1377 | 待撰写 |
-| 085 | The Travels of Marco Polo | Marco Polo and Rustichello da Pisa | c. 1300 | 待撰写 |
-| 086 | The Art of War | Sun Tzu | traditionally 5th century BCE | 待撰写 |
-| 087 | The Book of Lord Shang | Shang Yang school | 4th–3rd century BCE | 待撰写 |
-| 088 | The Crusades: The Authoritative History of the War for the Holy Land | Thomas Asbridge | 2004 | 待撰写 |
-| 089 | The Great War and Modern Memory | Paul Fussell | 1975 | 待撰写 |
-| 090 | Age of Extremes: The Short Twentieth Century, 1914–1991 | Eric Hobsbawm | 1994 | 待撰写 |
+| 081 | [The World Until Yesterday](081-the-world-until-yesterday.md) | Jared Diamond | 2012 | 已完成 |
+| 082 | [The Lessons of History](082-the-lessons-of-history.md) | Will and Ariel Durant | 1968 | 已完成 |
+| 083 | [The Mediterranean and the Mediterranean World in the Age of Philip II](083-the-mediterranean-and-the-mediterranean-world.md) | Fernand Braudel | 1949 | 已完成 |
+| 084 | [The Muqaddimah](084-the-muqaddimah.md) | Ibn Khaldun | 1377 | 已完成 |
+| 085 | [The Travels of Marco Polo](085-the-travels-of-marco-polo.md) | Marco Polo and Rustichello da Pisa | c. 1300 | 已完成 |
+| 086 | [The Art of War](086-the-art-of-war.md) | Sun Tzu | traditionally 5th century BCE | 已完成 |
+| 087 | [The Book of Lord Shang](087-the-book-of-lord-shang.md) | Shang Yang school | 4th–3rd century BCE | 已完成 |
+| 088 | [The Crusades: The Authoritative History of the War for the Holy Land](088-the-crusades.md) | Thomas Asbridge | 2010 | 已完成 |
+| 089 | [The Great War and Modern Memory](089-the-great-war-and-modern-memory.md) | Paul Fussell | 1975 | 已完成 |
+| 090 | [Age of Extremes: The Short Twentieth Century, 1914–1991](090-age-of-extremes.md) | Eric Hobsbawm | 1994 | 已完成 |
 | 091 | Postwar: A History of Europe Since 1945 | Tony Judt | 2005 | 待撰写 |
 | 092 | The Cold War | John Lewis Gaddis | 2005 | 待撰写 |
 | 093 | The Origins of Totalitarianism | Hannah Arendt | 1951 | 待撰写 |
