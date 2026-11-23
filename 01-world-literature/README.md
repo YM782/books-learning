@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：10 / 60 本。
+已完成详细双语摘要：20 / 60 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@
 | 008 | [Jane Eyre](008-jane-eyre.md) | Charlotte Brontë | 1847 | 已完成 |
 | 009 | [Pride and Prejudice](009-pride-and-prejudice.md) | Jane Austen | 1813 | 已完成 |
 | 010 | [Madame Bovary](010-madame-bovary.md) | Gustave Flaubert | 1856–1857 | 已完成 |
-| 011 | The Great Gatsby | F. Scott Fitzgerald | 1925 | 待撰写 |
-| 012 | Nineteen Eighty-Four | George Orwell | 1949 | 待撰写 |
-| 013 | One Hundred Years of Solitude | Gabriel García Márquez | 1967 | 待撰写 |
-| 014 | Don Quixote | Miguel de Cervantes | 1605–1615 | 待撰写 |
-| 015 | The Brothers Karamazov | Fyodor Dostoevsky | 1879–1880 | 待撰写 |
-| 016 | Crime and Punishment | Fyodor Dostoevsky | 1866 | 待撰写 |
-| 017 | The Trial | Franz Kafka | 1925 | 待撰写 |
-| 018 | Moby-Dick | Herman Melville | 1851 | 待撰写 |
-| 019 | Things Fall Apart | Chinua Achebe | 1958 | 待撰写 |
-| 020 | The Tale of Genji | Murasaki Shikibu | c. 1008 | 待撰写 |
+| 011 | [The Great Gatsby](011-the-great-gatsby.md) | F. Scott Fitzgerald | 1925 | 已完成 |
+| 012 | [Nineteen Eighty-Four](012-nineteen-eighty-four.md) | George Orwell | 1949 | 已完成 |
+| 013 | [One Hundred Years of Solitude](013-one-hundred-years-of-solitude.md) | Gabriel García Márquez | 1967 | 已完成 |
+| 014 | [Don Quixote](014-don-quixote.md) | Miguel de Cervantes | 1605–1615 | 已完成 |
+| 015 | [The Brothers Karamazov](015-the-brothers-karamazov.md) | Fyodor Dostoevsky | 1879–1880 | 已完成 |
+| 016 | [Crime and Punishment](016-crime-and-punishment.md) | Fyodor Dostoevsky | 1866 | 已完成 |
+| 017 | [The Trial](017-the-trial.md) | Franz Kafka | 1925 | 已完成 |
+| 018 | [Moby-Dick](018-moby-dick.md) | Herman Melville | 1851 | 已完成 |
+| 019 | [Things Fall Apart](019-things-fall-apart.md) | Chinua Achebe | 1958 | 已完成 |
+| 020 | [The Tale of Genji](020-the-tale-of-genji.md) | Murasaki Shikibu | c. 1008 | 已完成 |
 | 021 | Dream of the Red Chamber | Cao Xueqin | 18th century; printed 1791 | 待撰写 |
 | 022 | Journey to the West | Wu Cheng'en | 1592 | 待撰写 |
 | 023 | Water Margin | Traditionally attributed to Shi Nai'an | 14th century | 待撰写 |
