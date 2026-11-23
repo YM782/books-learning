@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：20 / 60 本。
+已完成详细双语摘要：30 / 60 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@
 | 018 | [Moby-Dick](018-moby-dick.md) | Herman Melville | 1851 | 已完成 |
 | 019 | [Things Fall Apart](019-things-fall-apart.md) | Chinua Achebe | 1958 | 已完成 |
 | 020 | [The Tale of Genji](020-the-tale-of-genji.md) | Murasaki Shikibu | c. 1008 | 已完成 |
-| 021 | Dream of the Red Chamber | Cao Xueqin | 18th century; printed 1791 | 待撰写 |
-| 022 | Journey to the West | Wu Cheng'en | 1592 | 待撰写 |
-| 023 | Water Margin | Traditionally attributed to Shi Nai'an | 14th century | 待撰写 |
-| 024 | Romance of the Three Kingdoms | Luo Guanzhong | 14th century | 待撰写 |
-| 025 | The Little Prince | Antoine de Saint-Exupéry | 1943 | 待撰写 |
-| 026 | The Stranger | Albert Camus | 1942 | 待撰写 |
-| 027 | The Plague | Albert Camus | 1947 | 待撰写 |
-| 028 | The Grapes of Wrath | John Steinbeck | 1939 | 待撰写 |
-| 029 | Invisible Man | Ralph Ellison | 1952 | 待撰写 |
-| 030 | The Color Purple | Alice Walker | 1982 | 待撰写 |
+| 021 | [Dream of the Red Chamber](021-dream-of-the-red-chamber.md) | Cao Xueqin | 18th century; printed 1791 | 已完成 |
+| 022 | [Journey to the West](022-journey-to-the-west.md) | Wu Cheng'en | 1592 | 已完成 |
+| 023 | [Water Margin](023-water-margin.md) | Traditionally attributed to Shi Nai'an | 14th century | 已完成 |
+| 024 | [Romance of the Three Kingdoms](024-romance-of-the-three-kingdoms.md) | Luo Guanzhong | 14th century | 已完成 |
+| 025 | [The Little Prince](025-the-little-prince.md) | Antoine de Saint-Exupéry | 1943 | 已完成 |
+| 026 | [The Stranger](026-the-stranger.md) | Albert Camus | 1942 | 已完成 |
+| 027 | [The Plague](027-the-plague.md) | Albert Camus | 1947 | 已完成 |
+| 028 | [The Grapes of Wrath](028-the-grapes-of-wrath.md) | John Steinbeck | 1939 | 已完成 |
+| 029 | [Invisible Man](029-invisible-man.md) | Ralph Ellison | 1952 | 已完成 |
+| 030 | [The Color Purple](030-the-color-purple.md) | Alice Walker | 1982 | 已完成 |
 | 031 | The Handmaid's Tale | Margaret Atwood | 1985 | 待撰写 |
 | 032 | Frankenstein | Mary Shelley | 1818 | 待撰写 |
 | 033 | Dracula | Bram Stoker | 1897 | 待撰写 |
