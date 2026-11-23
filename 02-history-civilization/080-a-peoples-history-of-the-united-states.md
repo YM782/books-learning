@@ -19,6 +19,9 @@ Zinn’s approach is influential but also contested. Critics have argued that th
 
 *A People’s History of the United States* is valuable for studying social movements, labor history, race, colonialism, and the politics of historical memory. Its most important methodological lesson is to ask whose experiences are included in a historical narrative, whose are missing, and how power influences the preservation and interpretation of evidence.
 
+
+ The testimony also raises difficult questions about how to record mass suffering. Personal accounts preserve experiences that official documents may omit, while archival research can test dates, institutional structures, and numerical claims. Reading these forms together helps readers respect individual testimony without confusing a literary narrative with a complete statistical history.
+
 ## 核心学习价值
 
 - 从普通人和边缘群体角度重新观察美国历史。
