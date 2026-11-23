@@ -9,6 +9,9 @@
 
 《孙子兵法》是一部中国古代军事思想经典，以简练篇章讨论战争准备、战略判断、军队组织、地形、情报、用兵和胜负条件。孙子强调战争成本高昂，优秀的指挥者应尽可能以谋略、联盟和信息优势达成目标，而不是把消耗战当作唯一方式。“知彼知己”“避实击虚”等思想，体现对敌我条件、时机和资源的系统评估。作品还强调将领的判断、纪律、后勤和对士兵状态的理解。它后来被广泛用于军事、政治、商业和管理领域，但将古代战争原则直接套用到现代商业或组织管理，容易忽略历史情境和概念差异。文本的作者归属与成书年代也存在学术讨论，现存版本经历长期传抄和整理。阅读时应结合古代战争背景理解其概念，并区分原文主张与现代读者的比喻性应用。
 
+
+ 现代读者还应看到，战略选择总与政治目标和伦理后果相连。有效率并不自动等于正当，理解文本也需要把军事判断与战争对社会造成的伤害放在一起考察。
+
 ## English Summary (approximately 300 words)
 
 *The Art of War* is an ancient Chinese treatise on military strategy traditionally attributed to Sun Tzu. Its short chapters discuss planning, leadership, organization, intelligence, terrain, movement, deception, and the conditions that influence victory and defeat. Rather than presenting war as a contest of strength alone, the text emphasizes preparation, information, timing, flexibility, and the careful use of resources. It repeatedly warns that warfare is costly and that a capable commander should seek to achieve objectives without unnecessary destruction.
@@ -18,6 +21,9 @@ Several ideas have become widely known, including the importance of understandin
 The authorship and date of the text are debated. It is traditionally associated with the fifth century BCE, but scholars have discussed the stages of its composition and transmission, and the received text reflects a longer history of editing and commentary. Readers should therefore avoid treating every phrase as a direct statement by a single historical individual.
 
 The book has been applied far beyond military studies, including politics, business, negotiation, and management. Such applications can be suggestive, but they should not erase the historical context of ancient warfare or assume that a military metaphor is automatically a sound business principle. *The Art of War* is valuable for studying strategic thinking, uncertainty, intelligence, logistics, leadership, and the relationship between objectives and costs. Its enduring lesson is the need to understand conditions before committing resources to conflict.
+
+
+ Modern readers should also remember that strategic effectiveness and moral legitimacy are not identical. Understanding the treatise requires attention both to military reasoning and to the human costs that follow when political objectives are pursued through war.
 
 ## 核心学习价值
 
