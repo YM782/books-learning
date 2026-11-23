@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：50 / 60 本。
+已完成详细双语摘要：60 / 60 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@
 | 048 | [The Vegetarian](048-the-vegetarian.md) | Han Kang | 2007 | 已完成 |
 | 049 | [My Brilliant Friend](049-my-brilliant-friend.md) | Elena Ferrante | 2011 | 已完成 |
 | 050 | [The Kite Runner](050-the-kite-runner.md) | Khaled Hosseini | 2003 | 已完成 |
-| 051 | The Old Man and the Sea | Ernest Hemingway | 1952 | 待撰写 |
-| 052 | The Sound and the Fury | William Faulkner | 1929 | 待撰写 |
-| 053 | A Passage to India | E. M. Forster | 1924 | 待撰写 |
-| 054 | The Scarlet Letter | Nathaniel Hawthorne | 1850 | 待撰写 |
-| 055 | The Awakening | Kate Chopin | 1899 | 待撰写 |
-| 056 | One Flew Over the Cuckoo's Nest | Ken Kesey | 1962 | 待撰写 |
-| 057 | The Road | Cormac McCarthy | 2006 | 待撰写 |
-| 058 | The Left Hand of Darkness | Ursula K. Le Guin | 1969 | 待撰写 |
-| 059 | The Dispossessed | Ursula K. Le Guin | 1974 | 待撰写 |
-| 060 | The Metamorphosis | Franz Kafka | 1915 | 待撰写 |
+| 051 | [The Old Man and the Sea](051-the-old-man-and-the-sea.md) | Ernest Hemingway | 1952 | 已完成 |
+| 052 | [The Sound and the Fury](052-the-sound-and-the-fury.md) | William Faulkner | 1929 | 已完成 |
+| 053 | [A Passage to India](053-a-passage-to-india.md) | E. M. Forster | 1924 | 已完成 |
+| 054 | [The Scarlet Letter](054-the-scarlet-letter.md) | Nathaniel Hawthorne | 1850 | 已完成 |
+| 055 | [The Awakening](055-the-awakening.md) | Kate Chopin | 1899 | 已完成 |
+| 056 | [One Flew Over the Cuckoo's Nest](056-one-flew-over-the-cuckoos-nest.md) | Ken Kesey | 1962 | 已完成 |
+| 057 | [The Road](057-the-road.md) | Cormac McCarthy | 2006 | 已完成 |
+| 058 | [The Left Hand of Darkness](058-the-left-hand-of-darkness.md) | Ursula K. Le Guin | 1969 | 已完成 |
+| 059 | [The Dispossessed](059-the-dispossessed.md) | Ursula K. Le Guin | 1974 | 已完成 |
+| 060 | [The Metamorphosis](060-the-metamorphosis.md) | Franz Kafka | 1915 | 已完成 |
 
 > 编号是馆藏编号，不是绝对世界排名。完整选书原则见仓库根目录的 [RANKING-METHODOLOGY.md](../RANKING-METHODOLOGY.md)。
