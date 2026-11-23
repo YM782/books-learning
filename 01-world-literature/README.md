@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：5 / 60 本。
+已完成详细双语摘要：10 / 60 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@
 | 003 | [Ulysses](003-ulysses.md) | James Joyce | 1922 | 已完成 |
 | 004 | [To the Lighthouse](004-to-the-lighthouse.md) | Virginia Woolf | 1927 | 已完成 |
 | 005 | [In Search of Lost Time](005-in-search-of-lost-time.md) | Marcel Proust | 1913–1927 | 已完成 |
-| 006 | Anna Karenina | Leo Tolstoy | 1875–1877 | 待撰写 |
-| 007 | War and Peace | Leo Tolstoy | 1865–1869 | 待撰写 |
-| 008 | Jane Eyre | Charlotte Brontë | 1847 | 待撰写 |
-| 009 | Pride and Prejudice | Jane Austen | 1813 | 待撰写 |
-| 010 | Madame Bovary | Gustave Flaubert | 1856–1857 | 待撰写 |
+| 006 | [Anna Karenina](006-anna-karenina.md) | Leo Tolstoy | 1875–1877 | 已完成 |
+| 007 | [War and Peace](007-war-and-peace.md) | Leo Tolstoy | 1865–1869 | 已完成 |
+| 008 | [Jane Eyre](008-jane-eyre.md) | Charlotte Brontë | 1847 | 已完成 |
+| 009 | [Pride and Prejudice](009-pride-and-prejudice.md) | Jane Austen | 1813 | 已完成 |
+| 010 | [Madame Bovary](010-madame-bovary.md) | Gustave Flaubert | 1856–1857 | 待撰写 |
 | 011 | The Great Gatsby | F. Scott Fitzgerald | 1925 | 待撰写 |
 | 012 | Nineteen Eighty-Four | George Orwell | 1949 | 待撰写 |
 | 013 | One Hundred Years of Solitude | Gabriel García Márquez | 1967 | 待撰写 |
