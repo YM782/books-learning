@@ -9,6 +9,9 @@
 
 托尼·朱特的《战后欧洲史》从1945年第二次世界大战结束写起，追踪欧洲如何在废墟中重建，并逐步形成冷战格局、福利国家、欧洲一体化和后冷战秩序。作品覆盖西欧与东欧，讨论战后清算、德国分裂、苏联控制下的东欧、殖民帝国解体、经济增长、社会运动、移民和共产主义政权崩溃。朱特强调，战后欧洲并非简单从战争走向繁荣，而是在记忆、责任、政治妥协和制度重建中形成新的社会契约。西欧福利国家和欧洲共同体的发展，与东欧国家的计划经济和政治压制形成鲜明对照；1989年后，两种欧洲又面临融合、民族主义和历史记忆的挑战。作者以欧洲为中心构建综合叙事，对其他地区的全球联系也有所涉及，但无法覆盖所有国家和社会群体。阅读时应关注各国差异，避免把“欧洲经验”理解为统一道路。
 
+
+同时，战后欧洲的重建与美国援助、全球贸易和殖民体系解体密切相关，不能只从欧洲内部政策解释。不同国家对战争记忆和社会福利的选择，也持续影响今天的政治文化。
+
 ## English Summary (approximately 300 words)
 
 Tony Judt’s *Postwar: A History of Europe Since 1945* traces the political, economic, and social reconstruction of Europe after the Second World War. Beginning with a continent devastated by occupation, genocide, displacement, and destruction, Judt follows the emergence of the Cold War, the division of Germany, the Soviet domination of Eastern Europe, the rebuilding of Western European economies, and the gradual development of European integration.
@@ -18,6 +21,9 @@ The book examines how European societies dealt with collaboration and responsibi
 The collapse of communist governments in 1989 and the end of the Cold War created new possibilities but did not erase divisions. European integration, nationalism, migration, and disputes over historical memory continued to shape the continent. Judt’s narrative is broad and detailed, though it naturally gives more attention to Europe than to the wider global systems that influenced European recovery. Readers should also remember that national experiences differed significantly and cannot be reduced to a single European path.
 
 *Postwar* is valuable for studying the Cold War, welfare states, European integration, decolonization, migration, and the politics of memory. It helps readers understand how institutions are rebuilt after catastrophe and why economic recovery must be considered alongside justice, political legitimacy, and social trust.
+
+
+ The postwar settlement also depended on relationships beyond Europe, including American assistance, global trade, and the dissolution of colonial empires. National choices about welfare, justice, and public memory continued to shape political culture long after reconstruction was complete.
 
 ## 核心学习价值
 
