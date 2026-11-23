@@ -19,6 +19,9 @@ His analysis emphasizes the relationship between capitalism and imperialism, ref
 
 *The Age of Empire* is valuable for studying imperialism, globalization, nationalism, mass politics, and the origins of modern international conflict. It helps readers understand how the late nineteenth century created both unprecedented global connections and deep structural inequalities.
 
+
+ The imperial period also produced resistance, negotiation, and adaptation within colonized societies. Local rulers, merchants, workers, intellectuals, and communities did not simply receive European policies; they responded to them in different ways. Bringing these perspectives into the reading helps avoid treating empire as a story told only by the governments that expanded overseas.
+
 ## 核心学习价值
 
 - 理解十九世纪末帝国主义与全球资本主义扩张。
