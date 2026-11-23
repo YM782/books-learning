@@ -1,4 +1,4 @@
-# 088 · The Crusades: The War for the Holy Land
+# 088 · The Crusades: The Authoritative History of the War for the Holy Land
 
 - **作者：** Thomas Asbridge
 - **首次出版/成书：** 2010
@@ -9,6 +9,9 @@
 
 托马斯·阿斯布里奇的《十字军东征：圣地之战》综合叙述十一世纪末至十三世纪末十字军运动的兴起、扩张和变化。作品从教皇号召、欧洲封建政治和拜占庭求援写起，追踪第一次十字军东征、耶路撒冷王国建立、穆斯林政权的反击、萨拉丁崛起以及后续多次远征。作者同时关注基督教和伊斯兰世界的政治分裂、军事组织、外交联盟和普通人的生活，避免把冲突简单写成两个统一文明之间的战争。十字军运动既包含宗教信仰，也受到土地、财富、政治合法性和个人野心推动。阿斯布里奇利用多语种史料和现代研究，呈现不同参与者对战争的理解，但任何单卷综合史都无法涵盖所有地区和群体。阅读时应区分中世纪参与者的宗教语言与现代民族或文明分类，避免把历史冲突直接投射到当代政治。
 
+
+ 同时，圣地地区的居民并非只在十字军叙事中充当背景，他们的贸易、宗教生活、政治选择和日常适应也构成理解这一时期不可缺少的部分。
+
 ## English Summary (approximately 300 words)
 
 Thomas Asbridge’s *The Crusades: The War for the Holy Land* provides a broad account of the crusading movement from the late eleventh century through the later medieval period. The narrative begins with the political and religious circumstances that led Pope Urban II to call for the First Crusade, including appeals for help from the Byzantine Empire and the changing relationships among European rulers. It then follows the conquest of Jerusalem, the establishment of crusader states, Muslim political responses, the rise of Saladin, and later campaigns to the eastern Mediterranean.
@@ -18,6 +21,9 @@ Asbridge examines military organization, diplomacy, religious belief, dynastic a
 The book draws on a wide range of historical sources and modern scholarship to explain how the crusading movement changed over time. Like any broad synthesis, it cannot cover every local experience or every debate in equal depth. Readers should also be careful not to impose modern national or civilizational categories onto medieval societies. The language used by participants reflected religious and political assumptions that were different from those of the present.
 
 *The Crusades* is valuable for studying medieval Christianity and Islam, warfare, diplomacy, religious motivation, political legitimacy, and cross-cultural contact. It encourages readers to examine how religious ideals and material interests can operate together, and why historical conflicts should be understood in their specific contexts rather than used as simple explanations for modern politics.
+
+
+ The inhabitants of the eastern Mediterranean should not be treated merely as background figures in a European crusading story. Their trade, religious life, political choices, and everyday adaptation are essential to understanding the period.
 
 ## 核心学习价值
 
