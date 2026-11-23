@@ -4,18 +4,20 @@
 
 ## 书目进度
 
+已完成详细双语摘要：10 / 35 本。
+
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
-| 061 | The Histories | Herodotus | c. 430 BCE | 待撰写 |
-| 062 | History of the Peloponnesian War | Thucydides | 5th century BCE | 待撰写 |
-| 063 | The History of the Decline and Fall of the Roman Empire | Edward Gibbon | 1776–1789 | 待撰写 |
-| 064 | The Rise and Fall of the Third Reich | William L. Shirer | 1960 | 待撰写 |
-| 065 | The Guns of August | Barbara W. Tuchman | 1962 | 待撰写 |
-| 066 | The Making of the Atomic Bomb | Richard Rhodes | 1986 | 待撰写 |
-| 067 | The Silk Roads | Peter Frankopan | 2015 | 待撰写 |
-| 068 | Guns, Germs, and Steel | Jared Diamond | 1997 | 待撰写 |
-| 069 | Sapiens | Yuval Noah Harari | 2011 | 待撰写 |
-| 070 | The Dawn of Everything | David Graeber and David Wengrow | 2021 | 待撰写 |
+| 061 | [The Histories](061-the-histories.md) | Herodotus | c. 430 BCE | 已完成 |
+| 062 | [History of the Peloponnesian War](062-history-of-the-peloponnesian-war.md) | Thucydides | 5th century BCE | 已完成 |
+| 063 | [The History of the Decline and Fall of the Roman Empire](063-decline-and-fall-of-the-roman-empire.md) | Edward Gibbon | 1776–1789 | 已完成 |
+| 064 | [The Rise and Fall of the Third Reich](064-the-rise-and-fall-of-the-third-reich.md) | William L. Shirer | 1960 | 已完成 |
+| 065 | [The Guns of August](065-the-guns-of-august.md) | Barbara W. Tuchman | 1962 | 已完成 |
+| 066 | [The Making of the Atomic Bomb](066-the-making-of-the-atomic-bomb.md) | Richard Rhodes | 1986 | 已完成 |
+| 067 | [The Silk Roads](067-the-silk-roads.md) | Peter Frankopan | 2015 | 已完成 |
+| 068 | [Guns, Germs, and Steel](068-guns-germs-and-steel.md) | Jared Diamond | 1997 | 已完成 |
+| 069 | [Sapiens](069-sapiens.md) | Yuval Noah Harari | 2011 | 已完成 |
+| 070 | [The Dawn of Everything](070-the-dawn-of-everything.md) | David Graeber and David Wengrow | 2021 | 已完成 |
 | 071 | The Age of Revolution | Eric Hobsbawm | 1962 | 待撰写 |
 | 072 | The Age of Capital | Eric Hobsbawm | 1975 | 待撰写 |
 | 073 | The Age of Empire | Eric Hobsbawm | 1987 | 待撰写 |
