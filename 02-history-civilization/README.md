@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：30 / 35 本。
+已完成详细双语摘要：35 / 35 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@
 | 088 | [The Crusades: The Authoritative History of the War for the Holy Land](088-the-crusades.md) | Thomas Asbridge | 2010 | 已完成 |
 | 089 | [The Great War and Modern Memory](089-the-great-war-and-modern-memory.md) | Paul Fussell | 1975 | 已完成 |
 | 090 | [Age of Extremes: The Short Twentieth Century, 1914–1991](090-age-of-extremes.md) | Eric Hobsbawm | 1994 | 已完成 |
-| 091 | Postwar: A History of Europe Since 1945 | Tony Judt | 2005 | 待撰写 |
-| 092 | The Cold War | John Lewis Gaddis | 2005 | 待撰写 |
-| 093 | The Origins of Totalitarianism | Hannah Arendt | 1951 | 待撰写 |
-| 094 | The Great Divergence | Kenneth Pomeranz | 2000 | 待撰写 |
-| 095 | The Great Game | Peter Hopkirk | 1990 | 待撰写 |
+| 091 | [Postwar: A History of Europe Since 1945](091-postwar.md) | Tony Judt | 2005 | 已完成 |
+| 092 | [The Cold War](092-the-cold-war.md) | John Lewis Gaddis | 2005 | 已完成 |
+| 093 | [The Origins of Totalitarianism](093-the-origins-of-totalitarianism.md) | Hannah Arendt | 1951 | 已完成 |
+| 094 | [The Great Divergence](094-the-great-divergence.md) | Kenneth Pomeranz | 2000 | 已完成 |
+| 095 | [The Great Game](095-the-great-game.md) | Peter Hopkirk | 1990 | 已完成 |
 
 > 编号是馆藏编号，不是绝对世界排名。完整选书原则见仓库根目录的 [RANKING-METHODOLOGY.md](../RANKING-METHODOLOGY.md)。
