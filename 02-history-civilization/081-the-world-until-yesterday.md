@@ -9,6 +9,9 @@
 
 《昨日之前的世界》比较传统社会与现代工业社会在育儿、老年照护、冲突处理、风险应对、宗教和社区生活方面的差异。贾雷德·戴蒙德通过人类学研究、历史记录和个人观察，讨论一些小规模社会如何依靠亲属网络、口头协商和集体责任维持生活，也指出现代社会在医疗、法律和公共安全方面拥有传统社会难以获得的优势。作者并不主张回到过去，而是希望现代人从不同社会经验中重新思考教育、养老、冲突调解和风险意识。书中把不同地区和文化概括为“传统社会”，容易掩盖内部差异，也受到人类学界对案例选择、概括程度和浪漫化风险的批评。阅读时应注意作者是在比较某些具体案例，而不是描述一个统一的传统世界。作品的价值在于促使读者质疑现代生活方式是否只有一种可能，同时以证据而非怀旧情绪评估传统实践。
 
+
+ 还应注意，传统社会的经验只有放在具体生态、人口规模和制度环境中才有意义，不能直接移植到现代城市。比较的目的在于提出问题，而不是寻找一个适用于所有社会的单一答案。
+
 ## English Summary (approximately 300 words)
 
 Jared Diamond’s *The World Until Yesterday* compares aspects of life in small-scale traditional societies with those of modern industrial societies. Drawing on anthropological research, historical accounts, and personal observation, Diamond examines child-rearing, the treatment of older people, conflict resolution, risk management, religion, community relationships, and everyday cooperation. He asks what modern societies might learn from practices that developed in communities organized around kinship, local knowledge, and face-to-face responsibility.
@@ -18,6 +21,9 @@ The book does not argue that people should return to earlier forms of life. Diam
 A central difficulty is the broad category of “traditional societies.” Communities across different regions and histories are diverse, and no single example can represent them all. Anthropologists have questioned aspects of Diamond’s case selection, the scale of his generalizations, and the risk of presenting complex societies through simplified contrasts. Readers should therefore examine the evidence for each case and distinguish observation from interpretation.
 
 *The World Until Yesterday* is valuable for studying comparative anthropology, social organization, child-rearing, aging, conflict, and the assumptions of modern life. Its best use is as a prompt for careful comparison: what problem was a practice designed to solve, in what context did it work, and what might be lost if it were transferred to another society?
+
+
+ The comparison is most useful when it remains specific: practices should be understood within their ecological, demographic, and institutional settings rather than transferred mechanically to modern cities. The aim is to widen questions, not to identify one universal model of social life.
 
 ## 核心学习价值
 
