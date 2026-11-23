@@ -19,6 +19,9 @@ James writes from a Marxist and anti-colonial perspective. His interpretation ha
 
 *The Black Jacobins* is valuable for understanding the Haitian Revolution, the history of slavery, the limits of Enlightenment universalism, and the role of oppressed people as makers of history. It challenges narratives that treat colonial populations as passive recipients of freedom granted by European powers.
 
+
+ The revolution also transformed the political imagination of enslaved people and free communities throughout the Atlantic world. News of events in Saint-Domingue influenced debates about abolition and citizenship elsewhere, while foreign governments attempted to contain the example. The history therefore connects local resistance to a wider struggle over the meaning of universal rights.
+
 ## 核心学习价值
 
 - 理解海地革命、奴隶制废除与独立建国。
