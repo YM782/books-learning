@@ -25,6 +25,9 @@ However, the phrase “Great Game” can make the region appear to be merely a c
 
  Local rulers and communities responded to outside pressure in different ways: some cooperated, some resisted, and others negotiated between competing empires. Examining these choices restores the political complexity of Central Asia and prevents the region from disappearing behind an imperial rivalry.
 
+
+ The imperial rivalry is therefore best understood as a relationship among competing powers and local political actors, not as a two-sided contest conducted over an empty territory.
+
 ## 核心学习价值
 
 - 理解十九世纪英俄帝国在中亚的战略竞争。
