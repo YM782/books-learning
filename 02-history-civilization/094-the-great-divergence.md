@@ -25,6 +25,9 @@ The argument has generated extensive debate. Scholars have questioned the choice
 
  The debate demonstrates why industrialization cannot be explained only through inventions or cultural characteristics within one country. Energy, land, colonial relationships, labor, and international markets interacted to change the conditions under which economic growth became possible.
 
+
+ This comparative method also invites debate about what counts as a fair comparison: historians must explain why particular regions, periods, and indicators are chosen before drawing conclusions about long-term economic performance.
+
 ## 核心学习价值
 
 - 理解工业革命前中欧经济比较的核心争论。
