@@ -4,13 +4,15 @@
 
 ## 书目进度
 
+已完成详细双语摘要：5 / 60 本。
+
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
-| 001 | Middlemarch | George Eliot | 1871–1872 | 待撰写 |
-| 002 | Beloved | Toni Morrison | 1987 | 待撰写 |
-| 003 | Ulysses | James Joyce | 1922 | 待撰写 |
-| 004 | To the Lighthouse | Virginia Woolf | 1927 | 待撰写 |
-| 005 | In Search of Lost Time | Marcel Proust | 1913–1927 | 待撰写 |
+| 001 | Middlemarch | George Eliot | 1871–1872 | 已完成 |
+| 002 | Beloved | Toni Morrison | 1987 | 已完成 |
+| 003 | Ulysses | James Joyce | 1922 | 已完成 |
+| 004 | To the Lighthouse | Virginia Woolf | 1927 | 已完成 |
+| 005 | In Search of Lost Time | Marcel Proust | 1913–1927 | 已完成 |
 | 006 | Anna Karenina | Leo Tolstoy | 1875–1877 | 待撰写 |
 | 007 | War and Peace | Leo Tolstoy | 1865–1869 | 待撰写 |
 | 008 | Jane Eyre | Charlotte Brontë | 1847 | 待撰写 |
