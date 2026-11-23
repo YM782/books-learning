@@ -19,6 +19,9 @@ The narrative nonfiction approach makes the history emotionally accessible, but 
 
 *The Warmth of Other Suns* is valuable for studying internal migration, racial inequality, urban history, labor, family memory, and the pursuit of citizenship and opportunity. It helps readers understand that migration is not only movement across a map; it is also a response to political structures and a force that reshapes the places people leave and the places where they arrive.
 
+
+ The stories also show that migration reshapes both the destination and the place left behind. Family networks, remittances, cultural practices, and political participation connect regions across distance. The Great Migration should therefore be understood as a national transformation rather than as a series of isolated individual departures.
+
 ## 核心学习价值
 
 - 理解美国大迁徙的历史规模、路线和社会原因。
