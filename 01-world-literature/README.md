@@ -4,7 +4,7 @@
 
 ## 书目进度
 
-已完成详细双语摘要：40 / 60 本。
+已完成详细双语摘要：50 / 60 本。
 
 | 馆藏编号 | 书名 | 作者 | 首次出版/成书年份 | 摘要状态 |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@
 | 038 | [The Count of Monte Cristo](038-the-count-of-monte-cristo.md) | Alexandre Dumas | 1844–1846 | 已完成 |
 | 039 | [The Magic Mountain](039-the-magic-mountain.md) | Thomas Mann | 1924 | 已完成 |
 | 040 | [The Master and Margarita](040-the-master-and-margarita.md) | Mikhail Bulgakov | 1966–1967 | 已完成 |
-| 041 | The Name of the Rose | Umberto Eco | 1980 | 待撰写 |
-| 042 | The God of Small Things | Arundhati Roy | 1997 | 待撰写 |
-| 043 | Midnight's Children | Salman Rushdie | 1981 | 待撰写 |
-| 044 | The Remains of the Day | Kazuo Ishiguro | 1989 | 待撰写 |
-| 045 | Norwegian Wood | Haruki Murakami | 1987 | 待撰写 |
-| 046 | Kokoro | Natsume Sōseki | 1914 | 待撰写 |
-| 047 | Snow Country | Yasunari Kawabata | 1935–1937 | 待撰写 |
-| 048 | The Vegetarian | Han Kang | 2007 | 待撰写 |
-| 049 | My Brilliant Friend | Elena Ferrante | 2011 | 待撰写 |
-| 050 | The Kite Runner | Khaled Hosseini | 2003 | 待撰写 |
+| 041 | [The Name of the Rose](041-the-name-of-the-rose.md) | Umberto Eco | 1980 | 已完成 |
+| 042 | [The God of Small Things](042-the-god-of-small-things.md) | Arundhati Roy | 1997 | 已完成 |
+| 043 | [Midnight's Children](043-midnights-children.md) | Salman Rushdie | 1981 | 已完成 |
+| 044 | [The Remains of the Day](044-the-remains-of-the-day.md) | Kazuo Ishiguro | 1989 | 已完成 |
+| 045 | [Norwegian Wood](045-norwegian-wood.md) | Haruki Murakami | 1987 | 已完成 |
+| 046 | [Kokoro](046-kokoro.md) | Natsume Sōseki | 1914 | 已完成 |
+| 047 | [Snow Country](047-snow-country.md) | Yasunari Kawabata | 1935–1937 | 已完成 |
+| 048 | [The Vegetarian](048-the-vegetarian.md) | Han Kang | 2007 | 已完成 |
+| 049 | [My Brilliant Friend](049-my-brilliant-friend.md) | Elena Ferrante | 2011 | 已完成 |
+| 050 | [The Kite Runner](050-the-kite-runner.md) | Khaled Hosseini | 2003 | 已完成 |
 | 051 | The Old Man and the Sea | Ernest Hemingway | 1952 | 待撰写 |
 | 052 | The Sound and the Fury | William Faulkner | 1929 | 待撰写 |
 | 053 | A Passage to India | E. M. Forster | 1924 | 待撰写 |
