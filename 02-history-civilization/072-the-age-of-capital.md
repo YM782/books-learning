@@ -19,6 +19,9 @@ Hobsbawm connects economic change with class relations, national politics, and c
 
 *The Age of Capital* is valuable for understanding how industrial capitalism became a global system. It helps readers see that economic growth depends on institutions, finance, labor, infrastructure, and political power, and that prosperity can coexist with social conflict. It also provides a bridge between the revolutionary upheavals of the first half of the nineteenth century and the imperial expansion examined in Hobsbawm’s next volume.
 
+
+ The volume also helps explain why the expansion of markets did not produce identical outcomes everywhere. Infrastructure, state policy, access to credit, and the bargaining power of workers shaped how industrial growth was experienced. Comparing these factors across regions prevents readers from assuming that capitalism followed one uniform path.
+
 ## 核心学习价值
 
 - 理解1848年后资本主义扩张与工业社会发展。
